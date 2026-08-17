@@ -26,4 +26,3 @@ function marcarAtualizacao() {
 }
 
 carregarSensores();
-marcarAtualizacao();
