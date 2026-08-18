@@ -27,3 +27,9 @@ th, td {
 table {
   margin-top: 12px;
 }
+
+.alerta {
+  color: #a00000;
+  background: #ffe0e0;
+  padding: 6px;
+}
